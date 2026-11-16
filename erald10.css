@@ -1,0 +1,847 @@
+
+
+body {
+
+color:rgb(85, 7, 63);
+background-color: rgb(247, 189, 81);
+}
+
+#bottom-right
+{
+right: 0;
+bottom: 0;
+position: relative;
+}
+
+tr{
+	
+border: 1px solid black;	
+	
+	
+	
+}
+
+table {
+            
+            width:1050px; 
+			height:860px;
+			border-collapse: separate;
+            border-spacing: 10px;
+			border-radius:20px;
+			margin-top:-25px;
+        }
+
+
+td
+{
+	writing-mode: horizontal-tb;
+	border: 8px solid black;	
+	overflow-wrap: break-word;
+	color:rgb(18, 4, 4);
+	font-size:20px;
+    max-width:700px;
+	border-radius:1px;
+	
+	
+	border-block-end-color:rgba(220, 145, 235, 0.6);
+    
+}
+th
+{
+	border: 8px solid black;	
+	border-radius:1px;
+	color:rgb(17, 12, 3);
+	font-size:20px;
+	border: 10px solid black;	
+	text-align: center;
+}
+
+input,
+textarea {
+ 
+  font:
+    2rem 'Fira Sans',
+    sans-serif;
+}
+#email
+{
+
+color:blue;
+
+}
+#adm
+
+{
+background-color:rgb(121, 192, 240);
+
+
+}
+
+#fuh2
+{
+
+background-color:rgb(249, 132, 253);
+
+
+}
+
+#fuh1 
+{
+font-weight: bold;
+
+background-color:cyan;
+}
+
+#fuh10 
+{
+font-weight: bold;
+
+background-color:rgb(117, 243, 130);
+}
+
+
+#ans:hover
+{
+background-color:rgb(132, 116, 218);
+
+
+
+
+transition-duration: 1s;
+}
+
+
+#hello1 
+{
+	  width: 700px;
+  height: 500px;
+
+  position: relative;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: 2;
+  animation-direction: alternate-reverse;  
+	
+	
+	
+	
+}
+@keyframes example
+ {
+  0%   {background-color:red; left:-100px; top:-100px;}
+
+  50%  {background-color:blue; left:200px; top:200px;}
+
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+#yoo
+{
+
+color:green;
+font-size:100px;
+
+
+transform:rotate(90deg);
+margin-left:-150px;
+position:absolute;	
+margin-top:150px;
+
+}
+#yoo6
+{
+
+color:green;
+font-size:100px;
+font-weight:bold;
+
+transform:rotate(80deg);
+margin-left:-100px;
+position:absolute;	
+margin-top:500px;
+
+}
+#titre2
+{
+
+color:orange;
+font-size:50px;
+
+
+
+}
+
+
+
+
+
+
+#presente1
+{
+	background-color:DarkCyan;
+	color:orange;
+		border:4px solid orange ;
+border-radius: 30px 30px 30px 30px;
+	width: 1000px;
+   height: 905px;
+   font-size: 30px;
+	   margin-left: auto;
+ margin-right: auto;
+ padding:10px;
+}
+
+#presente2
+{
+	background-color:gray;
+	color:orange;
+		border:4px solid orange ;
+border-radius: 30px 30px 30px 30px;
+	width: 1000px;
+   height: 1805px;
+   font-size: 30px;
+	   margin-left: auto;
+ margin-right: auto;
+ padding:10px;
+}
+
+
+#presente3
+{
+	background-color:gray;
+	color:orange;
+		border:4px solid orange ;
+border-radius: 30px 30px 30px 30px;
+	width: 1000px;
+   height: 1405px;
+   font-size: 30px;
+	   margin-left: auto;
+ margin-right: auto;
+ padding:10px;
+}
+#presente3di
+{
+	background-color:gray;
+	color:orange;
+		border:4px solid orange ;
+border-radius: 30px 30px 30px 30px;
+	width: 1000px;
+   height: 2005px;
+   font-size: 30px;
+	   margin-left: auto;
+ margin-right: auto;
+ padding:10px;
+}
+
+#presente4
+{
+	background-color:gray;
+	color:orange;
+		border:4px solid orange ;
+border-radius: 30px 30px 30px 30px;
+	width: 1000px;
+   height: 2005px;
+   font-size: 30px;
+	   margin-left: auto;
+ margin-right: auto;
+ padding:10px;
+}
+
+#presentetchat
+{
+	background-color:gray;
+	color:orange;
+		border:4px solid orange ;
+border-radius: 15px 15px 1px 1px;
+	width: 1000px;
+   height: 605px;
+   min-width: 250px;
+   font-size: 20px;
+	   margin-left: auto;
+ margin-right: auto;
+white-space: normal;
+
+}
+
+#presentetchat2
+{
+	
+	background-color:blue;
+	color:orange;
+		border:4px solid orange ;
+border-radius: 30px 30px 30px 30px;
+	width: 1000px;
+   height: 2605px;
+   font-size: 30px;
+	   margin-left: auto;
+ margin-right: auto;
+ padding:10px;
+}
+#presentetchat2a
+{
+	background-color:gray;
+	color:orange;
+		border:4px solid orange ;
+border-radius: 30px 30px 30px 30px;
+	width: 800px;
+   height: 800px;
+   font-size: 30px;
+	   margin-left: auto;
+ margin-right: auto;
+ padding:10px;
+}
+
+
+#presentetchat2b
+{
+	background-color:aquamarine;
+	color:blue;
+		border:solid ;
+		border-width: 10px;
+		border-color: darkmagenta;
+border-radius: 30px 30px 30px 30px;
+
+width: 800px;
+   height: 750px;
+ 
+}
+
+
+
+
+
+
+
+
+#presentetchat2a:hover
+{
+	background-color:gray;
+	color:orange;
+		border:4px solid orange ;
+border-radius: 30px 30px 30px 30px;
+	width: 800px;
+   height: 800px;
+   font-size: 30px;
+	   margin-left: auto;
+ margin-right: auto;
+ padding:10px;
+}
+
+
+
+#yoo68
+{
+
+color:green;
+font-size:80px;
+
+
+transform:rotate(70deg);
+margin-left:450px;
+position:absolute;	
+margin-top:1400px;
+
+}
+
+
+#yoo65
+{
+
+color:green;
+font-size:100px;
+font-weight:bold;
+
+transform:rotate(60deg);
+margin-left:800px;
+position:absolute;	
+margin-top:500px;
+
+}
+
+#yoo65a
+{
+
+color:green;
+font-size:100px;
+font-weight:bold;
+
+transform:rotate(-20deg);
+margin-left:200px;
+position:absolute;	
+margin-top:1900px;
+
+}
+
+#yoo65b
+{
+
+color:green;
+font-size:100px;
+font-weight:bold;
+
+transform:rotate(-20deg);
+margin-left:800px;
+position:absolute;	
+margin-top:1900px;
+
+}
+
+
+
+#yoo65c
+{
+
+color:green;
+font-size:100px;
+font-weight:bold;
+
+transform:rotate(-75deg);
+margin-left:1100px;
+position:absolute;	
+margin-top:1900px;
+
+}
+
+
+#yoo65d
+{
+
+color:green;
+font-size:100px;
+font-weight:bold;
+
+transform:rotate(20deg);
+margin-left:200px;
+position:absolute;	
+margin-top:2200px;
+
+}
+
+
+#yoo65e
+{
+
+color:green;
+font-size:100px;
+font-weight:bold;
+
+transform:rotate(5deg);
+margin-left:900px;
+position:absolute;	
+margin-top:2300px;
+
+}
+
+#yoo65f
+{
+
+color:green;
+font-size:80px;
+font-weight:bold;
+
+transform:rotate(45deg);
+margin-left:800px;
+position:absolute;	
+margin-top:2700px;
+
+}
+
+#yoo655
+{
+
+color:green;
+font-size:100px;
+font-weight:bold;
+
+transform:rotate(60deg);
+margin-left:1000px;
+position:absolute;	
+margin-top:500px;
+
+}
+
+
+
+ #yoo656
+{
+
+color:green;
+font-size:100px;
+font-weight:bold;
+
+transform:rotate(60deg);
+margin-left:1100px;
+position:absolute;	
+margin-top:850px;
+
+}
+#yoo2
+{
+
+color:blue;
+font-size:100px;
+
+
+transform:rotate(90deg);
+	
+
+}
+
+#yoo2lien
+{
+
+color:green;
+font-size:30px;
+
+
+	
+
+}
+#yoo2lien:hover
+{
+
+color:yellow;
+font-size:50px;
+
+transition-duration: 1s;
+	
+
+}
+
+#yoo7
+{
+
+color:green;
+font-size:80px;
+
+margin-left:250px;
+transform:rotate(10deg);
+	margin-top:600px;
+position:absolute;
+}
+
+
+#yoo72
+{
+
+color:green;
+font-size:90px;
+
+margin-left:250px;
+transform:rotate(10deg);
+	margin-top:930px;
+position:absolute;
+}
+
+
+
+
+#yoo3
+{
+
+color:green;
+font-size:30px;
+transform:rotate(-6deg);
+margin-left:210px;
+
+	margin-top:-50px;
+position:absolute;
+}
+
+
+#yoo32
+{
+
+color:green;
+font-size:30px;
+transform:rotate(-6deg);
+margin-left:210px;
+
+	margin-top:1000px;
+position:absolute;
+}
+
+#yoo32a
+{
+
+color:green;
+font-size:30px;
+transform:rotate(-6deg);
+margin-left:210px;
+
+	margin-top:2200px;
+position:absolute;
+}
+
+
+
+#yoo5
+{
+
+color:orange;
+font-size:100px;
+transform:rotate(10deg);
+margin-left:210px;
+
+	margin-top:700px;
+position:absolute;
+}
+
+#yoo4
+{
+
+color:gray;
+font-size:30px;
+
+margin-left:610px;
+
+	margin-top:-90px;
+position:absolute;
+}
+
+
+#yoo42
+{
+transform:rotate(10deg);
+color:gray;
+font-size:30px;
+
+margin-left:1030px;
+
+	margin-top:-123px;
+position:absolute;
+}
+#yoo425
+{
+transform:rotate(10deg);
+color:gray;
+font-size:30px;
+
+margin-left:1030px;
+
+	margin-top:1023px;
+position:absolute;
+}
+
+
+
+
+#two:focus
+{
+
+ color:green;
+}
+
+
+#yoo:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:130px;
+
+
+}
+#yoo6:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:130px;
+
+
+}
+
+
+#yoo68:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:100px;
+	border:2px solid yellow ;
+
+}
+
+
+#yoo5:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:130px;
+
+
+}
+
+#yoo65:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:130px;
+
+
+}
+#yoo65a:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:130px;
+
+
+}
+
+
+#yoo65b:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:130px;
+
+
+}
+
+
+#yoo65c:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:130px;
+
+
+}
+
+#yoo65d:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:130px;
+
+
+}
+
+
+#yoo65e:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:130px;
+
+
+}
+
+#yoo65f:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:100px;
+
+
+}
+
+#yoo655:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:130px;
+
+
+}
+
+#yoo656:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:130px;
+
+
+}
+
+#yoo655:active
+{
+transition-duration: 1s;
+transform:translate(-200px,-200px);
+
+
+}
+
+
+
+#yoo2:hover
+{
+transition-duration: 1s;
+color:yellow;
+font-size:130px;
+
+
+}
+
+#yoo7:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:100px;
+
+
+}
+
+#yoo72:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:110px;
+
+
+}
+
+#yoo3:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:50px;
+transform: translate( 25px,25px) ;
+
+}
+#yoo32:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:50px;
+transform: translate( 25px,25px) ;
+
+}
+
+
+#yoo32a:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:50px;
+transform: translate( 25px,25px) ;
+
+}
+
+
+
+
+#yoo4:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:50px;
+transform: translate( 50px,25px) ;
+
+}
+
+#yoo42:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:50px;
+transform: translate( 50px,25px) ;
+
+}
+
+#yoo425:hover
+{
+transition-duration: 1s;
+color:black;
+font-size:50px;
+transform: translate( 50px,25px) ;
+
+}

@@ -1,0 +1,11 @@
+
+# Fichier contenant les identifiants secrets
+.env
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
