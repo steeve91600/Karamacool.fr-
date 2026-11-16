@@ -84,7 +84,7 @@ function e($string) {
 
     <br/><br/>
     <h1 id="titre">
-        <a id="yoo2" href="index.php" class="titre-main">Karmacool chat &#129655;</a>
+        <a id="yoo2" href="index.php" class="titre-main">Karmacool dev chat &#129655;</a>
     </h1>
     <p id="email"><h2>( contact@karmacool.fr )</h2></p>
     <br/>
